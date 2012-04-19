@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This script will start the Wave in a Box server.
+# This script will start the Wave in a Box server. - TESTING
 #
 
 # Make sure the config file exists.
